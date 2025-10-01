@@ -1,3 +1,5 @@
+//This is a auth controllers
+
 import { Controller } from '@nestjs/common';
 import { MessagePattern, Payload } from '@nestjs/microservices';
 import { PasswordAuthService } from './password.service';
