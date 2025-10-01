@@ -1,4 +1,4 @@
-//This is a auth controllers
+//This is a auth controller
 
 import { Controller } from '@nestjs/common';
 import { MessagePattern, Payload } from '@nestjs/microservices';
