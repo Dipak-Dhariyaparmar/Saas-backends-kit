@@ -1,4 +1,4 @@
-// This is a auth modules controller
+// This is a auth modules controllers
 
 import { Module } from '@nestjs/common';
 import { JwtModule } from '@nestjs/jwt';
